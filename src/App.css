@@ -1,0 +1,55 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #0A192F;
+  color: #CCD6F6;
+}
+
+.app {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.hero {
+  text-align: center;
+  padding: 4rem 1rem;
+  background-color: #112240;
+  border-radius: 1rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  color: #64FFDA;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+.cta-buttons a {
+  margin: 1rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #64FFDA;
+  color: #0A192F;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.section {
+  margin-top: 3rem;
+  padding: 2rem;
+  background-color: #112240;
+  border-radius: 1rem;
+}
+
+.card {
+  background-color: #0A192F;
+  padding: 1rem;
+  border-left: 4px solid #64FFDA;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+}
